@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Fravega",
+        "url": "https://www.fravega.com/",
+        "scriptName": "fravega",
+        "selectors": {
+            "spamButton": "#modal > div.sc-flMpop.hPLJor.sc-bUrLeq.jpywVE > button",
+            "articles": "LimitedShowcase__LinkTracker-shopping-ui__sc-8z6sja-2 jFkuVP",
+            "articleName": "#__next > div.sc-fiKUBa.hiiBo > div.ProductDetails__StyledProductDetails-shopping-ui__sc-2486oi-4.cUpzjz > div.ProductDetails__Desktop-shopping-ui__sc-2486oi-1.hrHLaN > div.generalstyles__Row-shopping-ui__sc-1j7wv79-0.generalstyles__RowNoSpaceTopBottom-shopping-ui__sc-1j7wv79-1.bpeUJX.iJwYqb > div > div.PurchaseInfo__PurchaseInfoWrapper-shopping-ui__sc-1wok6te-6.gHCLee > h1"
+        }
+    }
+]
